@@ -59,6 +59,7 @@ df.isnull().sum()
 ### df.info:
 ![df info after](https://user-images.githubusercontent.com/113497571/226187111-880de989-24ef-4394-b1bd-d259c7a23644.jpg)
 ### df.isnull().sum():
-![df info after](https://user-images.githubusercontent.com/113497571/226187181-03c79db5-26a2-4364-b08f-35643a54e100.jpg)
+![dh isnull() ](https://user-images.githubusercontent.com/113497571/226527636-244b2fc4-6447-44d6-8d98-81be75169133.jpg)
+
 # RESULT:
 Thus,the given data is read,cleansed and the cleaned data is saved into the file.
